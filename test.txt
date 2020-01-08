@@ -2,3 +2,4 @@ this is a test
 Creating a new branch is quick and simple ----debug------
 add merge
 on dev:working ok ...
+dev commit by dev
